@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructwithBuffer", "ConstructwithBuffer.csproj", "{429332B4-7428-4E4D-ACEC-BF8C4AC72C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429332B4-7428-4E4D-ACEC-BF8C4AC72C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429332B4-7428-4E4D-ACEC-BF8C4AC72C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429332B4-7428-4E4D-ACEC-BF8C4AC72C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429332B4-7428-4E4D-ACEC-BF8C4AC72C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
